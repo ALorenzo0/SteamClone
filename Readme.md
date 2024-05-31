@@ -30,7 +30,6 @@
 			- HTML
 			- CSS
 			- C#
-			- Bootstrap
 			- TSQL
 			- JAVASCRIPT
 	
