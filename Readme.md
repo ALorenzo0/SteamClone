@@ -20,7 +20,7 @@
 		- apri il sito web premendo il pulsante la "freccia verde".
 		
 		 
-		 
+> [!WARNING]		 
 # REQUISITI
 
 	1. Microsoft SQL Server Management Studio.
