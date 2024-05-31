@@ -30,7 +30,7 @@
 
 # CODICE
 
-	```python
+	```sql
 	insert into dbo.tipigioco (Idtipogioco, tipogioco )
 	 values 
 	  (1, 'sparatutto')
