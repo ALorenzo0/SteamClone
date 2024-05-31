@@ -30,7 +30,6 @@
 
 # CODICE
 
-puoi modificare tutti i valori in base alle tue esigenze e creare tabelle differenti.
 	```sql
 	insert into dbo.tipigioco (Idtipogioco, tipogioco )
 	 values 
@@ -40,9 +39,11 @@ puoi modificare tutti i valori in base alle tue esigenze e creare tabelle differ
 	 ,(4, 'strategia')
 	 ,(5, 'open world')	 
 	 ```
+puoi modificare tutti i valori in base alle tue esigenze e creare tabelle differenti.
 
 
-esempio di creazione tabella.
+
 	```sql
 	create table dbo.GiochiTipiGioco (IDTipoGioco INT, IDgioco INT)
 	```
+esempio di creazione tabella.
