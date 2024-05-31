@@ -37,9 +37,11 @@
 	 ,(2, 'avventura')
 	 ,(3, 'di ruolo')
 	 ,(4, 'strategia')
-	 ,(5, 'open world')
-	 
+	 ,(5, 'open world')	 
 	 ```
-puoi modificare tutti i valori in base alle tue esigenze e creare differenti tabelle.
+puoi modificare tutti i valori in base alle tue esigenze e creare tabelle differenti.
 
-https://myoctocat.com/assets/images/base-octocat.svg
+	```sql
+	create table dbo.GiochiTipiGioco (IDTipoGioco INT, IDgioco INT)
+	```
+esempio di creazione tabella.
