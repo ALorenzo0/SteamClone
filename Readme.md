@@ -38,3 +38,5 @@
 	 ,(3, 'di ruolo')
 	 ,(4, 'strategia')
 	 ,(5, 'open world')
+	 
+	 ```
