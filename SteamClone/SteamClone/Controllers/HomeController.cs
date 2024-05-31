@@ -88,7 +88,6 @@ namespace SteamClone.Controllers
 
 			SQLData data = new SQLData(dbConnectionString);
 
-
 			List<Giochi> giochi = new List<Giochi>();
 
 			giochi = data.CaricaGiochiByCategoria(idtipogioco);
