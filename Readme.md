@@ -20,7 +20,7 @@
 		- apri il sito web premendo il pulsante la "freccia verde".
 		
 		 
-> [!WARNING]		 
+	 
 # REQUISITI
 
 	1. Microsoft SQL Server Management Studio.
@@ -40,3 +40,6 @@
 	 ,(5, 'open world')
 	 
 	 ```
+puoi modificare tutti i valori in base alle tue esigenze e creare differenti tabelle.
+
+https://myoctocat.com/assets/images/base-octocat.svg
