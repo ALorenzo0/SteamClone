@@ -26,6 +26,11 @@
 	1. Microsoft SQL Server Management Studio.
 	2. Microsoft Visual Studio.
 	
+### LINGUAGGI DI PROGRAMMAZIONE USATI: 
+			- HTML
+			- CSS
+			- C#
+			- Bootstrap
 	
 
 # CODICE
