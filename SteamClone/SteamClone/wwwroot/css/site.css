@@ -1,0 +1,240 @@
+body {
+    background-color: #1B2838;
+}
+
+/*p {
+    color: red;
+}*/
+
+nav {
+    background-color: #171d25;
+}
+
+b2 {
+    color: white;
+}
+
+
+.helptext {
+    color:#5eafde;
+}
+
+.benvenuto {
+    text-align: center;
+    color: DodgerBlue;
+}
+
+
+.titoli {
+    color:White;
+}
+
+img {
+    border-radius: 5px 5px 0 0;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+    margin: 10px;
+   
+}
+
+    /* On mouse-over, add a deeper shadow */
+    .card:hover {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+/* Add some padding inside the card container */
+.container1 {
+    padding: 2px 16px;
+}
+
+
+
+/* Make sure that padding behaves as expected */
+* {
+    box-sizing: border-box
+}
+
+/* Container for skill bars */
+.container {
+    width: 100%; /* Full width */
+    padding-top: 25px;
+}
+
+.skills {
+    position: absolute;
+    bottom: 5px;
+    text-align: right;
+    left: 5px;
+    padding-right: 10px;
+    color: white;
+}
+
+.html {
+    width: 90%;
+    background-color: #04AA6D;
+}
+
+.js {
+    width: 30%;
+    background-color: #f44336;
+}
+
+.php {
+    width: 50%;
+    background-color: #808080;
+}
+/* Dark Grey */
+
+.wow {
+    width: 80%;
+    background-color: #04AA6D;
+}
+
+.gameContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer {
+    text-align: left;
+    color: #8F98A0;
+}
+
+.containerfooter {
+    width: 100%; /* Full width */
+    background-color: #171a21;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: solid 2px white;
+    border-bottom: solid 2px white;
+    padding: 10px;
+}
+
+.footertext {
+    color: white;
+    max-width: 50%;
+}
+
+
+.recensioni {
+    color: white;
+}
+
+.tabella {
+    color: white;
+    text-align: center;
+}
+
+.griglia {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+    
+}
+
+.commento {
+    color: white;
+    text-align: center;
+    min-width: 100px;
+}
+
+.bordo {
+    border-style: solid;
+    border-color: #4e697d;
+    padding: 10px;
+}
+
+.scritte {
+    background-color: #5eafde;   
+}
+
+.immagine {
+    height: 209px;
+}
+
+.mediarecensioni_1 {
+    background-color: red;
+    width: 20%;
+}
+
+.mediarecensioni_2 {
+    background-color: orange;
+    width: 45%;
+}
+
+.mediarecensioni_3 {
+    background-color: mediumspringgreen;
+    width: 60%;
+}
+
+.mediarecensioni_4 {
+    background-color: green;
+    width: 80%;
+}
+
+.mediarecensioni_5 {
+    background-color: rgb(0, 255, 255);
+    width: 95%;
+}
+
+.mediarecensioni_-1 {
+    background-color: grey;
+    width: 98%;
+}
+
+.visualizzacommenti {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    top: 225px;
+}
+
+.gameLink {  
+    background-color: lightblue;
+    color: white;
+    padding: 4px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.immdettagligioco {
+    width: 1300px;
+    height: 400px;
+}
+
+.dettagligioco {
+    color: white;
+    text-align: center;
+}
+
+.immaginecategorie {
+    margin-top: 20px;
+    margin-left: 13px;
+    margin-right: 6px;
+}
+
+.sottotitoli {
+    color: white;
+    text-align: center;
+}
+
+.immagineover:hover{
+    box-shadow: grey 10px 10px;
+}
+
+.pegi {
+    width: 100px;
+    height: 100px;
+    margin-left: 600px;
+}
+
+.titologioco {
+    text-align: center;
+    color: white;
+}

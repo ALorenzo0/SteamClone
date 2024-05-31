@@ -1,0 +1,51 @@
+﻿@{
+	@model SteamClone.ViewModels.NegozioViewModels
+	@using System.Linq;
+	ViewBag.Title = "CATEGORIE";
+}
+
+
+
+ <body>
+<h1>@ViewData["Title"]</h1>
+
+<head>
+
+		<h1 style="color:white">Giochi di categoria: </h1>
+        <h1 style="color:grey;">
+			
+           @Model.giochi.First().tipogioco
+        </h1>
+        
+</head>
+
+   <div class="gameContainer">
+
+			@foreach(var Gioco in Model.giochi)
+			{
+				<div class="card">
+					<img class="immagine" src="@Gioco.immagine" alt="Avatar" style="width:100%">
+					<div class="container1">
+						<h4><b>@Gioco.gioco</b></h4>
+						<a class="gameLink" href="../Home/DETTAGLIGIOCO?IDGioco=@Gioco.idgioco" target="_blank">Guarda i dettagli del gioco</a>
+					<p><b>Prezzo: @Gioco.prezzo €</b></p>
+						<p><br />@Gioco.descrizione</p>						
+						<div class="container">
+							<div class="skills wow mediarecensioni_@Gioco.mediarecensioni" style.position="absolute">@Gioco.mediarecensioni</div>
+						</div>
+					</div>
+
+				}
+						
+					
+			</div>
+		}
+	}
+		
+</body>
+
+ <!--
+     commento
+ -->
+
+  

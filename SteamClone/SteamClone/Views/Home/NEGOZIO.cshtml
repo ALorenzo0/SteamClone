@@ -1,0 +1,73 @@
+﻿@{
+	@model SteamClone.ViewModels.NegozioViewModels
+	ViewBag.Title = "NEGOZIO";
+}
+
+<body>
+	<h1>@ViewData["Title"]</h1>
+
+	<head>
+		
+		<h1 class="benvenuto">Benvenuto su Steam</h1>
+
+		<div class="gameContainer">
+			@foreach (var TipoGioco in Model.tipigioco)
+			{
+				<div class="immaginecategorie">
+					<a href="../Home/CATEGORIE?IDTipoGioco=@TipoGioco.idtipogioco">
+						<img class="immagineover" src="~/images/@(TipoGioco.tipogioco).png" alt="Avatar">
+					</a>
+
+					<h3 class="sottotitoli">@TipoGioco.tipogioco</h3>
+				</div>
+			}
+			
+			
+			
+			
+		</div>
+		
+		<br />
+		
+
+		<b2><br /><br /><br />IN EVIDENZA E CONSIGLIATI</b2>
+
+		<div class="gameContainer">
+
+			@foreach(var Gioco in Model.giochi)
+			{
+				<div class="card">
+					<img class="immagine" src="@Gioco.immagine" alt="Avatar" style="width:100%"> 
+					<div class="container1">
+						<h4><b>@Gioco.gioco</b></h4>
+						<a class="gameLink" href="../Home/DETTAGLIGIOCO?IDGioco=@Gioco.idgioco" target="_blank">Guarda i dettagli del gioco</a>
+						<p><b>Prezzo: @Gioco.prezzo €</b></p>
+						<p><br />@Gioco.descrizione</p>						
+						<div class="container">
+							<div class="skills wow mediarecensioni_@Gioco.mediarecensioni" style.position="absolute">@Gioco.mediarecensioni</div>
+						</div>
+					</div>
+					
+					
+						
+					
+				</div>
+
+				
+			}
+
+			
+
+		</div>
+
+
+
+		@* <meta name="descrizione" content=" descrizione dettagliata" /> *@
+
+	</head>
+
+</body>
+
+<!--
+	commento
+-->

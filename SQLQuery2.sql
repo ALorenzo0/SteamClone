@@ -1,0 +1,1 @@
+SELECT idgioco, gioco, immagine, recensioni FROM Giochi

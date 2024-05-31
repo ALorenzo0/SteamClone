@@ -1,0 +1,89 @@
+﻿@{
+    @model SteamClone.ViewModels.RecensioniViewModels
+    @using (Html.BeginForm("CreateStudent", "GetStudents", FormMethod.Post))
+        ViewBag.Title = "COMMUNITY";
+}
+
+
+ <body>
+<h1>@ViewData["Title"]</h1>
+   
+<head>
+        
+        <h2 class="titoli">Attività della Comunità</h2>
+
+        <p style="color:Gray;">
+            I contenuti ufficiali e della Comunità per tutti i giochi e software su Steam.
+        </p>
+
+        <p>
+            <br />
+            <br />
+            <br />
+
+            <h7 style="color: #c6d4df;">Benvenuto nella Comunità di Steam</h7>
+
+        </p>
+
+        <style>
+        table, th, td {
+        border:1px solid white;
+        }
+         </style>
+
+        
+
+            <h2 class="recensioni">Recensioni</h2>
+
+            <table style="width:100%" class="tabella">
+          
+
+            <tr>
+                <th class="griglia">Utente</th>
+                <th class="griglia">Gioco</th>
+                <th class="griglia">Voto</th>
+                <th class="griglia">Commento</th>
+            </tr>
+
+            @foreach (var Recensioni in Model.commento)
+            {
+                <tr>
+                    <td class="scritte">@Recensioni.idutente</td>
+                    <td class="scritte">@Recensioni.gioco</td>
+                    <td class="scritte">@Recensioni.valutazione</td>
+                    <td class="scritte">@Recensioni.recensione</td>
+                </tr>
+               
+            }        
+                
+                
+            </table>
+
+</head>
+
+<br />
+    <form action="/action_page.php" class="bordo">
+        <label for="fname" class="commento">     Utente:</label>
+        <input type="text" id="utente" name="utente"><br>
+
+        <label for="fname" class="commento">Gioco:</label>
+        <input type="text" id="gioco" name="gioco"><br>
+
+        <label for="fname" class="commento">Voto:</label>
+        <input type="text" id="voto" name="voto"><br>
+
+        <label for="fname" class="commento">Commento:</label>
+        <input type="text" id="commento" name="commento"><br>
+        
+        <input type="submit" value="Commenta">
+    </form>
+
+
+ 
+ </body>
+
+ <!--
+     commento
+ -->
+
+  

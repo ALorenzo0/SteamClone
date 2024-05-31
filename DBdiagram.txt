@@ -1,0 +1,75 @@
+Table dbo.Giochi {
+  IDGioco INT
+  Gioco varchar(50)
+  descrizione varchar(max)
+  prezzo decimal(16,2) //can be null
+  pegiID int
+  
+}
+
+Table dbo.TipiGioco {
+  IDTipoGioco INT
+  TipoGioco varchar(50)
+}
+
+Table dbo.GiochiTipiGioco {
+  IDTipoGioco INT
+  IDgioco INT
+}
+
+Table dbo.Recensioni {
+  IDRecensione int
+  IDGioco INT
+  IDutente INT
+  recensione varchar(500)
+  valutazione int
+}
+
+Table dbo.ReqMin {
+  IDGioco INT
+  OS varchar(30)
+  Processor varchar(30)
+  Memory varchar(30)
+  Graphics varchar(30)
+  DirectX varchar(30)
+  Storage int
+  Notes varchar(100)
+}
+
+
+//Table dbo.ListaDesideri {
+  //IDgioco INT
+//}
+
+Table dbo.GiochiLingue {
+  IDgioco INT
+  IDlingua INT
+  interfaccia varchar(20)
+  Audio varchar(20)
+  sottotitoli varchar(20)
+}
+
+Table dbo.Lingue {
+  IDLingua INT
+  lingua varchar(20)
+}
+
+
+Table dbo.Pegi {
+  pegiID int
+  descrizione varchar(20)
+}
+
+Ref: "dbo"."Giochi"."pegiID" > "dbo"."Pegi"."pegiID"
+
+Ref: "dbo"."TipiGioco"."IDTipoGioco" < "dbo"."GiochiTipiGioco"."IDTipoGioco"
+
+Ref: "dbo"."GiochiTipiGioco"."IDgioco" < "dbo"."Giochi"."IDGioco"
+
+Ref: "dbo"."GiochiLingue"."IDgioco" > "dbo"."Giochi"."IDGioco"
+
+Ref: "dbo"."Lingue"."IDLingua" < "dbo"."GiochiLingue"."IDlingua"
+
+Ref: "dbo"."ReqMin"."IDGioco" - "dbo"."Giochi"."IDGioco"
+
+Ref: "dbo"."Recensioni"."IDGioco" > "dbo"."Giochi"."IDGioco"

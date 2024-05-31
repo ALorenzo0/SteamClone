@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\steamclone.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\steamclone.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\steamclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\steamclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\home\\negozio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\home\\negozio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\models\\giochi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\models\\giochi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\viewmodels\\recensioniviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\viewmodels\\recensioniviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\viewmodels\\negozioviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\viewmodels\\negozioviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\models\\tipigioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\models\\tipigioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\models\\recensioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\models\\recensioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\home\\assistenza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\home\\assistenza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\home\\categorie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\home\\categorie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\home\\community.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\home\\community.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\home\\dettagligioco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\home\\dettagligioco.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\home\\informazioni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\home\\informazioni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\wwwroot\\images\\steam.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\wwwroot\\images\\steam.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\models\\dettagligioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\models\\dettagligioco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|c:\\users\\stage\\desktop\\progettosteam\\steamclone\\steamclone\\viewmodels\\dettagligiocoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD03EBC2-902C-4252-A5FF-D9C868F67C2B}|SteamClone\\SteamClone.csproj|solutionrelative:steamclone\\viewmodels\\dettagligiocoviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SteamClone",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\SteamClone.csproj",
+              "RelativeDocumentMoniker": "SteamClone\\SteamClone.csproj",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\SteamClone.csproj",
+              "RelativeToolTip": "SteamClone\\SteamClone.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T08:30:30.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecensioniViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\ViewModels\\RecensioniViewModels.cs",
+              "RelativeDocumentMoniker": "SteamClone\\ViewModels\\RecensioniViewModels.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\ViewModels\\RecensioniViewModels.cs",
+              "RelativeToolTip": "SteamClone\\ViewModels\\RecensioniViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:28:42.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:51:01.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NEGOZIO.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\NEGOZIO.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Home\\NEGOZIO.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\NEGOZIO.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Home\\NEGOZIO.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T10:14:25.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SteamClone\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:50:36.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SteamClone\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:23:44.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\appsettings.json",
+              "RelativeDocumentMoniker": "SteamClone\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\appsettings.json",
+              "RelativeToolTip": "SteamClone\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T08:10:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Program.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Program.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Program.cs",
+              "RelativeToolTip": "SteamClone\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:17:53.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NegozioViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\ViewModels\\NegozioViewModels.cs",
+              "RelativeDocumentMoniker": "SteamClone\\ViewModels\\NegozioViewModels.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\ViewModels\\NegozioViewModels.cs",
+              "RelativeToolTip": "SteamClone\\ViewModels\\NegozioViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:32:17.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Giochi.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\Giochi.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Models\\Giochi.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\Giochi.cs",
+              "RelativeToolTip": "SteamClone\\Models\\Giochi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:27:25.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipiGioco.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\TipiGioco.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Models\\TipiGioco.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\TipiGioco.cs",
+              "RelativeToolTip": "SteamClone\\Models\\TipiGioco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:41:03.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SteamClone.csproj",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\SteamClone.csproj",
+              "RelativeDocumentMoniker": "SteamClone\\SteamClone.csproj",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\SteamClone.csproj",
+              "RelativeToolTip": "SteamClone\\SteamClone.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T08:31:31.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLData.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Data\\SQLData.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Data\\SQLData.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Data\\SQLData.cs",
+              "RelativeToolTip": "SteamClone\\Data\\SQLData.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAUwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:01:26.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recensioni.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\Recensioni.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Models\\Recensioni.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\Recensioni.cs",
+              "RelativeToolTip": "SteamClone\\Models\\Recensioni.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:24:26.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ASSISTENZA.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\ASSISTENZA.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Home\\ASSISTENZA.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\ASSISTENZA.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Home\\ASSISTENZA.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:32:22.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CATEGORIE.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\CATEGORIE.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Home\\CATEGORIE.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\CATEGORIE.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Home\\CATEGORIE.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T07:25:03.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "COMMUNITY.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\COMMUNITY.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Home\\COMMUNITY.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\COMMUNITY.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Home\\COMMUNITY.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T06:58:39.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DETTAGLIGIOCO.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\DETTAGLIGIOCO.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Home\\DETTAGLIGIOCO.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\DETTAGLIGIOCO.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Home\\DETTAGLIGIOCO.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:29:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "INFORMAZIONI.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\INFORMAZIONI.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Home\\INFORMAZIONI.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Home\\INFORMAZIONI.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Home\\INFORMAZIONI.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T08:30:37.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T09:57:14.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:00:11.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "steam.ico - Icon [128x128, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\wwwroot\\images\\steam.ico",
+              "RelativeDocumentMoniker": "SteamClone\\wwwroot\\images\\steam.ico",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\wwwroot\\images\\steam.ico - Icon [128x128, 32 bit, BMP]",
+              "RelativeToolTip": "SteamClone\\wwwroot\\images\\steam.ico - Icon [128x128, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-05-30T09:48:18.218Z",
+              "EditorCaption": " - Icon [128x128, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T09:57:20.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SteamClone\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SteamClone\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T09:57:16.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SteamClone\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SteamClone\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAANAAAAAAAAAAAAAjwOkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T15:48:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DettagliGioco.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\DettagliGioco.cs",
+              "RelativeDocumentMoniker": "SteamClone\\Models\\DettagliGioco.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\Models\\DettagliGioco.cs",
+              "RelativeToolTip": "SteamClone\\Models\\DettagliGioco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:38:26.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DettagliGiocoViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\ViewModels\\DettagliGiocoViewModels.cs",
+              "RelativeDocumentMoniker": "SteamClone\\ViewModels\\DettagliGiocoViewModels.cs",
+              "ToolTip": "C:\\Users\\Stage\\Desktop\\ProgettoSteam\\SteamClone\\SteamClone\\ViewModels\\DettagliGiocoViewModels.cs",
+              "RelativeToolTip": "SteamClone\\ViewModels\\DettagliGiocoViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:38:20.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

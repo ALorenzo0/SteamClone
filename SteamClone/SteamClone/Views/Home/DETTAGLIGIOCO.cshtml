@@ -1,0 +1,63 @@
+﻿@{
+    @model SteamClone.ViewModels.DettagliGiocoViewModel
+     // @model SteamClone.ViewModels.NegozioViewModel 
+    ViewBag.Title = "DETTAGLI";
+}
+
+ <body>
+<h1>@ViewData["Title"]</h1>
+
+<head>
+        <h1 class="titologioco"><b>@Model.gioco.gioco</b></h1>
+        
+</head>
+
+    <br />
+    <br />
+    <br />
+    <img class="immdettagligioco" src="@Model.gioco.immagine" alt="Avatar" style="width:100%">
+    <div class="dettagligioco">
+        
+        <p><br />@Model.gioco.descrizione</p>      
+        <p><br />Prezzo: @Model.gioco.prezzo €</p>
+    </div>
+
+    <br />
+
+    <h2 class="recensioni">Recensioni</h2>
+
+    <table style="width:100%" class="tabella">
+
+
+        <tr>
+            <th class="griglia">Utente</th>
+            <th class="griglia">Gioco</th>
+            <th class="griglia">Voto</th>
+            <th class="griglia">Commento</th>
+        </tr>
+
+        @foreach (var Recensioni in Model.commento)
+        {
+            <tr>
+                <td class="scritte">@Recensioni.idutente</td>
+                <td class="scritte">@Recensioni.gioco</td>
+                <td class="scritte">@Recensioni.valutazione</td>
+                <td class="scritte">@Recensioni.recensione</td>
+            </tr>
+
+        }
+
+
+    </table>
+
+    <br />
+    <img class="pegi" src="~/images/@(Model.gioco.pegi).png" alt="Avatar">
+
+
+</body>
+
+ <!--
+     commento
+ -->
+
+  
