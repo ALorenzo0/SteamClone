@@ -27,7 +27,10 @@
 	2. Microsoft Visual Studio.
 	
 	
-	
+
+# CODICE
+
+	'''sql
 	insert into dbo.tipigioco (Idtipogioco, tipogioco )
 	 values 
 	  (1, 'sparatutto')
