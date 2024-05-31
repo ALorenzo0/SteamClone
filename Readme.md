@@ -31,6 +31,8 @@
 			- CSS
 			- C#
 			- Bootstrap
+			- TSQL
+			- JAVASCRIPT
 	
 
 # CODICE
